@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">Transfer2U</string>
+    <string name="intro">Select Watch to search for a video on the University that you want to trnsfer to, or select Upload in order to upload a video reviewing your university and help someone get into their Dream School.</string>
+    <string name="watchButton">Watch</string>
+    <string name="uploadButton">Upload</string>
+    <string name="actionSettings">Settings</string>
+
+</resources>
